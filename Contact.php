@@ -10,7 +10,7 @@
     <p>welcome</p>
 <a href="about.html">About us </a>
 <br>
-<a href="indexpage.html">The frist page</a>
+<a href="index.html">The frist page</a>
 <br>
 <a href="Services.html">Our Services</a>
 </body>

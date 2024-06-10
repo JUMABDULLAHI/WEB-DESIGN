@@ -32,5 +32,16 @@
        <input type="file" name="photo" placeholder="choose photo"><br>
        <input type="submit" name="indexpage.html" 
     </form>
-</body>
+    <p>NAMES</p>
+    <ol type="i" start="2">
+        <li>Juma</li>
+        <li>Abdullahi</li>
+        <li>Bakit</li>
+    </ol>
+    <img src="images/img1.jpg" alt="footballers" height="100" width="200">
+    <p>you can learn more at
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">books</a>
+    </p>
+    <footer>copyrighted &copy; Document</footer>
+    </body>
 </html>

@@ -4,9 +4,11 @@
    <title>ABOUT PAGE</title>
     </head>
         <body>
-            <nav class="navbar navbar-expand-lg bg-warning">
+          <div class="container">
+            <div class="row">
+              <nav class="navbar navbar-expand-lg bg-warning">
                 <div class="container-fluid">
-                  <a class="nav-link active" href="indexpage.html">web design</a>
+                  <a class="nav-link active" href="index.html">web design</a>
                   <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent"
                     aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
@@ -14,7 +16,7 @@
                   <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                       <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="indexpage.html">Home</a>
+                        <a class="nav-link active" aria-current="page" href="index.html">Home</a>
                       </li>
           
                       <li class="nav-item">
@@ -35,13 +37,24 @@
                   </div>
                 </div>
               </nav>
+            </div>
+          </div> <div class="container">
+            <div class="row">
+              
+            </div>
+          </div> <div class="container">
+            <div class="row">
+              
+            </div>
+          </div>
+            
               <script src="bootstrap/js/bootstrap.min.js"></script>
             <h1>
                 About page
 
             </h1>
             <h2>the image on the homepage</h2>
-            <a href="indexpage.html">about us</a>
+            <a href="index.html">about us</a>
             
         </body>
 </html>

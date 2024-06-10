@@ -20,7 +20,7 @@
 <body>
     <p class="b">Welcome to our Services</p>
 
-    <a href="indexpage.html">The First Page</a>
+    <a href="index.html">The First Page</a>
     <br>
     <a href="about.html">About us</a>
     <br>

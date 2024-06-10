@@ -1,0 +1,18 @@
+A table in HTML consists of table cells inside rows and columns.
+<table>
+<tr>
+<th>Company</th>
+<th>Contact</th>
+<th>Country</th>
+</tr>
+</table>
+
+an HTML form is used to collect user input. The user input is most often sent to a server for processing
+The HTML <form> element is used to create an HTML form for user input
+
+<video width="320" height="240" controls>
+  <source src="movie.mp4" type="video/mp4">
+  <source src="movie.ogg" type="video/ogg">
+</video>
+
+To show a video in HTML, use the <video> element
